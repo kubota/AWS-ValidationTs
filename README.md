@@ -1,2 +1,2 @@
-# aws_tests
-aws tests
+This repository is dedicated to automating security tests across various AWS services to ensure robust protection and compliance. Our goal is to develop a comprehensive suite of tests that thoroughly evaluate the security posture of AWS environments, covering services such as EC2, S3, RDS, Lambda, IAM, and more. By leveraging automated tools and scripts, we aim to detect vulnerabilities, misconfigurations, and potential threats early in the development and deployment lifecycle.
+
